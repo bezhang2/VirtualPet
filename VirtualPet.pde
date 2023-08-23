@@ -1,8 +1,8 @@
 
 void setup(){
-  //some of your code here
+  size(750,750);
 }
 void draw(){
-  //more of your code here
+  background(#FFFFFF);
 }
 
